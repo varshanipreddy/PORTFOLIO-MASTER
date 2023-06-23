@@ -858,6 +858,32 @@ button:focus {
   font-size: 2.3em !important;
   font-weight: 500 !important;
   padding-top: 10px !important;
+  
 }
 
+/* --------- */
+/* Work */
+/* --------- */
 
+.skills-section {
+  position: relative;
+  overflow: hidden;
+  padding: 20px;
+  padding-bottom: 140px;
+  color: #5f6c7b !important;
+}
+
+.skills-section .project-heading {
+  text-align: center;
+  font-size: 32px;
+  color: #094067;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+/* Adjustments for smaller screens */
+@media (max-width: 768px) {
+  .skills-section .project-heading {
+    font-size: 26px;
+  }
+}
