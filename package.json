@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "http://varshanipreddy.com",
+  "homepage": "https://varshanipreddy.github.io/varshanipreddy_portfolio",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
