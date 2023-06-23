@@ -46,9 +46,9 @@ function Techstack() {
       "Linux",
       "MacOS",
       "Windows",
-      "AI-Devops/WiseMLops(Huawei)",
-      "CloudDragon(Huawei)",
-      "WiseOper(Huawei)",
+      "AI-Devops",
+      "CloudDragon",
+      "WiseOper",
     ],
     technologies: [
       "Machine Learning",
