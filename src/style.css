@@ -412,12 +412,16 @@ button:focus {
   left: 0;
   width: 100%;
   background-color: #094067;
-  padding-top: 10px;
-  padding-bottom: 8px;
+  padding-top: 1px;
+  padding-bottom: 1px;
   z-index: 9999;
+  /* opacity: 97%; */
 }
 
 .footer-copywright {
+  text-align: center;
+}
+.footer-copywright2 {
   text-align: center;
 }
 
@@ -426,22 +430,26 @@ button:focus {
 }
 
 @media (max-width: 767px) {
-  .footer-copywright,
+
   .footer-body {
     text-align: center;
   }
+  .footer-copywright {
+    display: none;
+  }
+
 }
 
 .footer h3 {
   font-size: 1em;
   color: white;
   margin-top: 0.5em;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.1em;
 }
 
 .footer-icons {
   margin-top: 0.5em;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.1em;
   padding: 0;
 }
 

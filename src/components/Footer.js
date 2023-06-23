@@ -15,7 +15,7 @@ function Footer() {
       <Row>
 
         <Col md="4" className="footer-copywright">
-          <h3>varshanipreddy@tamu.edu</h3>
+          <h3>varshanipreddy@gmail.com</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -41,8 +41,8 @@ function Footer() {
             </li>
           </ul>
         </Col>
-        <Col md="4" className="footer-copywright">
-          <h3>varshanipreddy@gmail.com</h3>
+        <Col md="4" className="footer-copywright2">
+          <h3>varshanipreddy@tamu.edu</h3>
         </Col>
       </Row>
     </Container>
