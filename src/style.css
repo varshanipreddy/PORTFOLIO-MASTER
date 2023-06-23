@@ -444,12 +444,12 @@ button:focus {
   font-size: 1em;
   color: white;
   margin-top: 0.5em;
-  margin-bottom: 0.1em;
+  margin-bottom: 0.5em;
 }
 
 .footer-icons {
   margin-top: 0.5em;
-  margin-bottom: 0.1em;
+  margin-bottom: 0.5em;
   padding: 0;
 }
 
