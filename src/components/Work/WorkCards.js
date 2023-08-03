@@ -5,6 +5,7 @@ import { CgWebsite } from "react-icons/cg";
 import { BsGithub } from "react-icons/bs";
 
 function WorkCards(props) {
+  const skillsList = props.skills ? props.skills.split(",") : [];
 
     
   return (
@@ -18,12 +19,10 @@ function WorkCards(props) {
             <Card.Title style={{ paddingBottom: "0.5rem" }}>{props.title}</Card.Title>
             <Card.Subtitle style={{ paddingBottom: "1rem" }}>{props.title2}</Card.Subtitle>
             <Card.Subtitle style={{ paddingBottom: "1rem" }}>{props.title3}</Card.Subtitle>
+            <Card.Subtitle style={{ paddingBottom: "1rem", textAlign: "left" }}>{props.skills}</Card.Subtitle>
             <Card.Text style={{ textAlign: "justify" }}>
               {props.description}
             </Card.Text>
-
-
-
           </Card.Body>
         </div>
       </div>

@@ -49,6 +49,10 @@ function Techstack() {
       "AI-Devops",
       "CloudDragon",
       "WiseOper",
+      "Azure",
+      "AWS",
+      "Docker",
+      "Heroku"
     ],
     technologies: [
       "Machine Learning",
