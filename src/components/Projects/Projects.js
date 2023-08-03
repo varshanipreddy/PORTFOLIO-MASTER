@@ -25,7 +25,7 @@ function Projects() {
               imgPath={fridge}
               isBlog={false}
               title="Fridge2Table"
-              description="A system that suggests personalized recipes based on user preferences, dietary restrictions, and available ingredients. Based on personalized and non personalized recommendation based on cosine,jaccard similarities, item-item collaborative filtering"
+              description="To enhance the personalized recipe recommendation system, we can incorporate a hybrid approach that combines content-based and collaborative filtering techniques. By leveraging user preferences, dietary restrictions, and available ingredients, the system can provide more accurate and diverse recipe suggestions. Additionally, implementing incremental learning and context-aware recommendations will ensure that the system stays up-to-date and offers timely and relevant recipes based on user interactions and situational context."
               ghLink="https://github.com/varshanipreddy/fridge2table"
               // demoLink=""
             />
@@ -37,7 +37,7 @@ function Projects() {
               imgPath={chat}
               isBlog={false}
               title="HealthBot"
-              description="An integrated Android application featuring a chatbot for early-stage disability identification in children, providing accessible and convenient support for early intervention and assessment."
+              description="HealthBot is an innovative Android application that utilizes Machine Learning and Google DialogFlow to serve as a chatbot focused on detecting early-stage disability symptoms in children. Through interactive conversations, the app collects relevant information, analyzes it using ML algorithms, and provides valuable insights to caregivers and parents. This user-friendly tool aims to enhance early intervention and support, contributing to better healthcare outcomes for children."
               ghLink="https://github.com/varshanipreddy/HealthBot"
               // demoLink=""              
             />
@@ -48,7 +48,7 @@ function Projects() {
               imgPath={vote}
               isBlog={false}
               title="Blockchain-Enabled Electronic Voting System"
-              description="An innovative project leveraging Node.js, Vue.js, Hyperledger Fabric, and IBM Blockchain Platform on IBM Cloud Kubernetes to develop an enhanced security mechanism for e-polling and counting processes, ensuring transparency, immutability, and trust in digital voting systems."
+              description="An innovative e-voting platform that combines Hyperledger Fabric, the IBM Blockchain Platform, and JavaScript. With the integration of IoT devices, it enhances security for e-polling and counting. The system guarantees tamper-proof voting and transparent electoral outcomes, ensuring a trustworthy and reliable e-voting experience."
               ghLink="https://github.com/varshanipreddy/blockchain_enhanced_e_voting"
               // demoLink=""
             />
@@ -59,7 +59,7 @@ function Projects() {
               imgPath={crm}
               isBlog={false}
               title="FashioNXT-CRM-Service"
-              description="A customer relationship management (CRM) service implemented in Ruby on Rails that allows efficient management of customer interactions and data analysis for enhanced business productivity."
+              description="FashioNXT CRM Service is a robust solution built on Ruby on Rails and PostgreSQL, catering to the needs of the FashioNXT agency. It offers a feature-rich CRM system encompassing event invites, website analytics, user access management, and efficient data handling. This comprehensive platform empowers the agency with streamlined operations and improved customer engagement, fostering growth and success in the fashion industry."
               ghLink="https://github.com/varshanipreddy/FashioNXT-CRM-Service"
               // demoLink=""
             />
