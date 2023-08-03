@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/varshanipreddy_portfolio/static/css/main.d0112060.css",
-    "main.js": "/varshanipreddy_portfolio/static/js/main.3db3b3b0.js",
+    "main.js": "/varshanipreddy_portfolio/static/js/main.51b25c19.js",
     "static/js/787.1ed0c42c.chunk.js": "/varshanipreddy_portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/ittiam.png": "/varshanipreddy_portfolio/static/media/ittiam.7d4b06ed4555bfb85098.png",
     "static/media/about.png": "/varshanipreddy_portfolio/static/media/about.5a40f5449357647f2537.png",
@@ -10,7 +10,7 @@
     "static/media/p3.jpeg": "/varshanipreddy_portfolio/static/media/p3.b7b94901cb767a14f229.jpeg",
     "static/media/fridge.png": "/varshanipreddy_portfolio/static/media/fridge.2460f96fccea967b6f7e.png",
     "static/media/vote.png": "/varshanipreddy_portfolio/static/media/vote.98218b2f1917d0dac42e.png",
-    "static/media/pvr_.pdf": "/varshanipreddy_portfolio/static/media/pvr_.c02e38db02b9ff09835a.pdf",
+    "static/media/p_v_r.pdf": "/varshanipreddy_portfolio/static/media/p_v_r.9e43bfa71b38e9ce3d78.pdf",
     "static/media/nitrr.png": "/varshanipreddy_portfolio/static/media/nitrr.53d3b2233f4ae64cc42d.png",
     "static/media/Huawei.png": "/varshanipreddy_portfolio/static/media/Huawei.79b72ec6ea0a19be4b12.png",
     "static/media/crm.png": "/varshanipreddy_portfolio/static/media/crm.d74823915be4cd46e1e7.png",
@@ -18,11 +18,11 @@
     "static/media/pre.svg": "/varshanipreddy_portfolio/static/media/pre.c68b110d7a2d076dacd6.svg",
     "index.html": "/varshanipreddy_portfolio/index.html",
     "main.d0112060.css.map": "/varshanipreddy_portfolio/static/css/main.d0112060.css.map",
-    "main.3db3b3b0.js.map": "/varshanipreddy_portfolio/static/js/main.3db3b3b0.js.map",
+    "main.51b25c19.js.map": "/varshanipreddy_portfolio/static/js/main.51b25c19.js.map",
     "787.1ed0c42c.chunk.js.map": "/varshanipreddy_portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0112060.css",
-    "static/js/main.3db3b3b0.js"
+    "static/js/main.51b25c19.js"
   ]
 }
