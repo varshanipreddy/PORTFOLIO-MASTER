@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
+import Awards from "./components/Awards/Awards"
 import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
 import Education from "./components/Education/Education";
@@ -45,6 +46,7 @@ function App() {
           <Route path="/education" element={<Education />} />
           <Route path="/work" element={<Work />} />
           <Route path="/skills" element={<Skills />} />
+          <Route path="/awards" element={<Awards />} />
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />
