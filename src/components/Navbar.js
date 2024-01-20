@@ -19,7 +19,9 @@ import {
   MdWork,
   AiOutlineBook,
   AiOutlineBriefcase,
-  IoCodeSlash
+  IoCodeSlash,
+  AiOutlineSafetyCertificate,
+  AiOutlineGraduationCap
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
@@ -84,7 +86,7 @@ function NavBar() {
                 to="/education"
                 onClick={() => updateExpanded(false)}
               >
-                <AiOutlineBook style={{ marginBottom: "2px" }} /> Education
+                <AiOutlineBook style={{ marginBottom: "2px" }} /> Edu
               </Nav.Link>
             </Nav.Item>
 
@@ -94,7 +96,7 @@ function NavBar() {
                 to="/work"
                 onClick={() => updateExpanded(false)}
               >
-                <AiOutlineTool style={{ marginBottom: "2px" }} /> work
+                <AiOutlineTool style={{ marginBottom: "2px" }} /> Work
               </Nav.Link>
             </Nav.Item>
 
@@ -108,6 +110,15 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/certificates"
+                onClick={() => updateExpanded(false)}
+              >
+                <AiOutlineSafetyCertificate style={{ marginBottom: "2px" }} /> Certs
+              </Nav.Link>
+            </Nav.Item>
 
             <Nav.Item>
               <Nav.Link

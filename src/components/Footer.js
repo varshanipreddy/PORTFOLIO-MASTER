@@ -5,7 +5,7 @@ import {
   AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn, FaLaptopCode } from "react-icons/fa";
 
 function Footer() {
   let date = new Date();
@@ -31,7 +31,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/varshani-reddy-07802a129/"
+                href="https://www.linkedin.com/in/varshanipreddy/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -39,6 +39,17 @@ function Footer() {
                 <FaLinkedinIn />
               </a>
             </li>
+            <li className="social-icons">
+              <a
+                href="https://leetcode.com/varshanipreddy/"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <FaLaptopCode />
+              </a>
+            </li>
+
           </ul>
         </Col>
         <Col md="4" className="footer-copywright2">

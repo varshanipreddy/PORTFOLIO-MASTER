@@ -10,6 +10,7 @@ import Resume from "./components/Resume/ResumeNew";
 import Education from "./components/Education/Education";
 import Work from "./components/Work/Work"
 import Skills from "./components/Skills/Skills"
+import Certs from "./components/Certs/Certs"
 import {
   BrowserRouter as Router,
   Route,
@@ -47,6 +48,7 @@ function App() {
           <Route path="/work" element={<Work />} />
           <Route path="/skills" element={<Skills />} />
           <Route path="/awards" element={<Awards />} />
+          <Route path="/certificates" element={<Certs />} />
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />

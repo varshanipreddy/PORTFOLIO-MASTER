@@ -50,8 +50,23 @@ function About() {
                 imgPath={tamu}
                 isBlog={false}
                 title="Texas A&M University"
+                title2 = "Graduate Assistant - High Performance Computing"
+                title3 = "Nov 2023 - Present"
+                description = "As a Graduate Assistant at Texas A&M University's High Performance Research Computing Department, I handle tickets related to HPC systems, providing support and resolving issues alongside benchmarking Quantum Mechanics codes on MemVerge for optimal performance."
+                // ghLink="https://github.com/soumyajit4419/Chatify"
+                // demoLink=""
+              />
+            </Col>
+        </Row>
+
+        <Row style={{ justifyContent: "center", padding: "10px",paddingBottom: "10px" }}>
+            <Col md={9} className="work-card">
+              <WorkCard
+                imgPath={tamu}
+                isBlog={false}
+                title="Texas A&M University"
                 title2 = "Student Technitian - Web Developer/ Tester"
-                title3 = "July 2023 - Present"
+                title3 = "July 2023 - Nov 2023"
                 description = "As a Student Technician, I excel in web development, testing, and technical support, leveraging Microsoft Azure, Kentico, C#, ASP.NET, MVC, IIS Web Server, and Content Management Systems. I specialize in CMS for University websites, ensuring their smooth operation and scalability. Connecting with clients, I efficiently resolve issues, delivering exceptional support and user experiences."
                 // ghLink="https://github.com/soumyajit4419/Chatify"
                 // demoLink=""
