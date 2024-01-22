@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/varshanipreddy_portfolio/static/css/main.9b1a4392.css",
-    "main.js": "/varshanipreddy_portfolio/static/js/main.3ac12b84.js",
+    "main.js": "/varshanipreddy_portfolio/static/js/main.1fd219ea.js",
     "static/js/787.1ed0c42c.chunk.js": "/varshanipreddy_portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/ittiam.png": "/varshanipreddy_portfolio/static/media/ittiam.7d4b06ed4555bfb85098.png",
     "static/media/about.png": "/varshanipreddy_portfolio/static/media/about.5a40f5449357647f2537.png",
@@ -16,14 +16,15 @@
     "static/media/awsccp.png": "/varshanipreddy_portfolio/static/media/awsccp.f685d63a35961ca83875.png",
     "static/media/crm.png": "/varshanipreddy_portfolio/static/media/crm.d74823915be4cd46e1e7.png",
     "static/media/v.png": "/varshanipreddy_portfolio/static/media/v.502720641e0535242f02.png",
+    "static/media/udemy.jpg": "/varshanipreddy_portfolio/static/media/udemy.38ffb0a9afe24405317f.jpg",
     "static/media/pre.svg": "/varshanipreddy_portfolio/static/media/pre.c68b110d7a2d076dacd6.svg",
     "index.html": "/varshanipreddy_portfolio/index.html",
     "main.9b1a4392.css.map": "/varshanipreddy_portfolio/static/css/main.9b1a4392.css.map",
-    "main.3ac12b84.js.map": "/varshanipreddy_portfolio/static/js/main.3ac12b84.js.map",
+    "main.1fd219ea.js.map": "/varshanipreddy_portfolio/static/js/main.1fd219ea.js.map",
     "787.1ed0c42c.chunk.js.map": "/varshanipreddy_portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b1a4392.css",
-    "static/js/main.3ac12b84.js"
+    "static/js/main.1fd219ea.js"
   ]
 }
